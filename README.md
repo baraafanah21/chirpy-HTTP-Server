@@ -1,4 +1,4 @@
-# Chirp
+# Chirpy
 
 A small social API — users post short messages ("chirps") of 140 characters or less. Built from scratch in TypeScript with Express and PostgreSQL, no framework scaffolding.
 
